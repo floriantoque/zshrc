@@ -106,5 +106,5 @@ dk (){
 		docker container rm my_keras_container;
 		make notebook;
 	fi
-	cd ~/toque;
+	cd ~;
 }
